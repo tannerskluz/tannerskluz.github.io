@@ -1,2 +1,2 @@
-# tannerskluz.github.io
+# Tanner Skluzacek
 Personal website
